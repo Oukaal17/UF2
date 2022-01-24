@@ -28,7 +28,6 @@ namespace UF2
                 {
                     if (frasebase[i] == frasebase[j])
                     {
-                        contador[i]++;
                     }
                 }
             }
